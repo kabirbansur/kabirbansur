@@ -31,4 +31,4 @@ I love crafting clean UI, building efficient backend systems, and delivering pro
 
 ---
 
-### ✅ *Thanks for visiting — Feel free to check out my projects or connect!*
+### ✅ *Thanks for visiting — Feel free to connect!*
