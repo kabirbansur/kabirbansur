@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Naresh Saini  
+### Full Stack Developer — Angular | Ionic | Python | Django | Flask  
 
-<!--
-**kabirbansur/kabirbansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full Stack Developer with **4+ years of experience** building scalable, performance-driven Web & Mobile applications.
 
-Here are some ideas to get you started:
+I love crafting clean UI, building efficient backend systems, and delivering production-quality code that solves real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### **Frontend**
+- Angular (8–17)
+- Ionic (Mobile Apps)
+- RxJS, TypeScript
+- HTML • SCSS • Responsive UI
+
+### **Backend**
+- Python • Django • Flask  
+- REST API Development  
+- PostgreSQL • MySQL
+
+### **DevOps & Tools**
+- AWS (Lambda, EC2, S3)
+- Docker  
+- Git • CI/CD  
+
+## 🤝 Connect With Me  
+**LinkedIn:** https://linkedin.com/in/nareshsaini1  
+**Email:** mr.naresh2015@gmail.com  
+
+---
+
+### ✅ *Thanks for visiting — Feel free to check out my projects or connect!*
